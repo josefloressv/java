@@ -8,6 +8,7 @@ This is a demo application built with Kotlin and Spring Boot.
 - **Spring Boot**: Framework for building Java-based applications
 - **Gradle**: Build tool
 - **JUnit 5**: Testing framework
+- **Thymeleaf**: Template engine
 
 ## Prerequisites
 
